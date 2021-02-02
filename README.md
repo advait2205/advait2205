@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Advait Acharya
 
 <!--
 **advait2205/advait2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me:
+I am primarily an Android Developer. I can develop android apps with diverse functionalities ranging from any type of backend service to any type of frontend requirements.
+
