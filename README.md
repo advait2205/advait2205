@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Advait Acharya</h1>
-<h3 align="center">I am an Android Developer with specializing in Architecture Related Development(MVVM, MVI etc.) and Android Testing</h3>
+<h3 align="center">I am an Android Developer with specializing in Architecture Related Development(MVVM, MVI etc.) and Android Testing and Open Source Contribution</h3>
 
 - 📫 How to reach me **advaitacharya22@gmail.com**
 
